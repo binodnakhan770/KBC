@@ -8,4 +8,5 @@ public class RegistrationResponse {
     public void setData(RegistrationKbc data) {
         this.data = data;
     }
+
 }

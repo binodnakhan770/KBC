@@ -10,4 +10,7 @@ public class Response {
     public void setAdvertisement(Kbc advertisement) {
         this.advertisement = advertisement;
     }
+
+
 }
+
